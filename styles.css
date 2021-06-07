@@ -20,6 +20,7 @@ h2{
 .post1, .post2,.post3, .post4 {
     background: white;
     margin-top: 50px;
+    margin-bottom: 0;
 }
 
 .container {
